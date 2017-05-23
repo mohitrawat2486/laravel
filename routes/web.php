@@ -28,7 +28,7 @@ Route::resource('studentCRUD','StudentCRUDController');
     //var_dump($query->sql);
 ///});
  
-//Route::resource('Home');
+Route::resource('Home');
 
 /* Route::post('/','url_shortner@getUrl');
 
