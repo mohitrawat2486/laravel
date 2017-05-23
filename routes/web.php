@@ -14,7 +14,7 @@
 //Route::get('/student', 'Student@index');
 //Route::post('student/registration', 'StudentController@registrationProcess');
 
-//Route::resource('itemCRUD','ItemCRUDController');
+Route::resource('itemCRUD','ItemCRUDController');
 //Route::get('/index', 'Student@index');
 
 //Route::get('/students/list', ['as' => 'student.index', 'uses' => 'Student@list']);
