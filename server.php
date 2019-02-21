@@ -1,5 +1,5 @@
 <?php
-echo "hii";
+echo "hello";
 /**
  * Laravel - A PHP Framework For Web Artisans
  *
