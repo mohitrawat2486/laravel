@@ -1,5 +1,4 @@
 <?php
-echo "hello testing again";
 /**
  * Laravel - A PHP Framework For Web Artisans
  *
