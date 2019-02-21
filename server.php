@@ -1,5 +1,5 @@
 <?php
-echo "hello from atom again";
+echo "hello from atom again once again";
 /**
  * Laravel - A PHP Framework For Web Artisans
  *
